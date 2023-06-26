@@ -1,0 +1,26 @@
+body {
+    background-color: #222;
+    color:azure;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Roboto;
+    font-weight: normal;
+    color: rgb(100, 100, 100);
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+    font-family: Roboto;
+    font-weight: normal;
+    color: whitesmoke;
+    text-align: center;
+}
+
+form {
+    max-width: 720px;
+    margin: 0 auto 0 auto;
+    color:aliceblue;
+}
